@@ -16,6 +16,6 @@ Full Stack Developer focused on the MERN Stack, passionate about building scalab
 ![](https://github-profile-trophy.vercel.app/?username=himanshu03066&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=himanshu03066&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=himanshu03066&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
